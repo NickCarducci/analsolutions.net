@@ -129,6 +129,7 @@ export default class App extends React.Component {
         >
           realized gains on my laurels, put to work
         </a>
+        transaction fee based security depositary receipt
         <h4>
           ween cops off bonds & pharmacy-licensure TRUNCATED PRODUCTION TAX
           solves 90% of the problems - insurance fraud (loss-profit), good thing
