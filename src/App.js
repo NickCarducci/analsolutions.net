@@ -185,12 +185,14 @@ export default class App extends React.Component {
         <br />
         instead of leases, which seems to come into oil price, to treasury bond,
         go halfway between - per checking, now 20% federal lands (North Dakota,
-        Wyoming, New Mexico) of 18m/day at $60product and 3.65%/yr return -
-        input costs, make Savers in currency, not money or savings, in charge of
-        overhead as if the lands are fungible. Us bookkeepers amortize balance
-        sheets and lawyers reverse amortize ascertainable tortious unknown
-        hazards, foreseeable force majeure surrendered bid or outright is
-        obviously intentional
+        Wyoming, New Mexico, $5.4/day for every $10k of checking) of 18m/day at
+        $60product and 3.65%/yr return - input costs, make Savers in currency,
+        not money or savings, in charge of overhead as if the lands are
+        fungible. Us bookkeepers amortize balance sheets and lawyers reverse
+        amortize ascertainable tortious unknown hazards, foreseeable force
+        majeure surrendered bid or outright is obviously intentional. 600k/day
+        imports and exports, why? Are we washing money{space}
+        <a href="https://2024nj.com">here</a>.
       </div>
     );
   }
