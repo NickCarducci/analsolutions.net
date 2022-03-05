@@ -129,6 +129,10 @@ export default class App extends React.Component {
         >
           realized gains on my laurels, put to work
         </a>
+        Congress doesn't have the power of the purse for aid and funding, that
+        is beyond Article 1.8 unequal bon-tax Article 4 explicit scope
+        <br />
+        <br />
         Tax for free rider mutable (and untruncated) is ALWAYS 1y/0x elastic, by
         laborless-demand bearing (as services are free rider immutable, sewage,
         police and lawsuits). Unless it is plundering (and not for firesale),
