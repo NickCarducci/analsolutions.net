@@ -203,9 +203,13 @@ export default class App extends React.Component {
         tortious separation of powers, between investor, and entrepreneur.
         <br />
         <br />
-        instead of leases, which seems to come into oil price, to treasury bond,
-        go halfway between - per checking, now 20% federal lands (North Dakota,
-        Wyoming, New Mexico, $5.4/day for every $10k of checking) of 18m/day at
+        instead of{space}
+        <a href="https://www.brookings.edu/blog/the-avenue/2014/12/03/keystone-xl-or-not-how-does-america-move-oil-now/">
+          leases
+        </a>
+        , which seems to come into oil price, to treasury bond, go halfway
+        between - per checking, now 20% federal lands (North Dakota, Wyoming,
+        New Mexico, $5.4/day for every $10k of checking) of 18m/day at
         $60product and 3.65%/yr return - input costs, make Savers in currency,
         not money or savings, in charge of overhead as if the lands are
         fungible. Us bookkeepers amortize balance sheets and lawyers reverse
