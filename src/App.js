@@ -223,7 +223,7 @@ export default class App extends React.Component {
         tortious separation of powers, between investor, and entrepreneur.
         <br />
         <br />
-        instead of{space}
+        Instead of{space}
         <a href="https://www.brookings.edu/blog/the-avenue/2014/12/03/keystone-xl-or-not-how-does-america-move-oil-now/">
           leases
         </a>
