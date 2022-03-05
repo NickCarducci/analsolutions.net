@@ -162,15 +162,17 @@ export default class App extends React.Component {
         that only work (do not suppress quality-skew/discerning trade) because
         supply already doesn’t equal demandlabor-demand. Pennywise but a pound
         short of banning insurance and invoices for they are technically
-        illegal, surrendered freedom, by bid and outright.
+        illegal, surrendered freedom, by bid and outright (even{space}
+        <a href="https://qr.ae/pGdUao">consumer fraud</a>).
         <br />
         <br />
         Every transaction, with a credit from a contractor that is, in fact,
         liable for compound or general-income, is able to repossess the
         ascertainable losses of said purchase, as long as it is not imbued with
-        general-income works. That is why I consider 1/12 industry-vertical
-        pretension as “collateral” is a clean tortious separation of powers,
-        between investor, and entrepreneur.
+        general-income works. That is{space}
+        <a href="https://qr.ae/pGdwY1">why I consider</a>
+        {space}1/12 industry-vertical pretension as “collateral” is a clean
+        tortious separation of powers, between investor, and entrepreneur.
       </div>
     );
   }
