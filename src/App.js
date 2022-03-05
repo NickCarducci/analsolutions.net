@@ -182,7 +182,17 @@ export default class App extends React.Component {
           reduce inequality by assets, and then increased efficiency, 0y/1x
           1/hour-GDP/p.
         </h4>
+        &bull;{space}SSAMedicare%/outlays,
+        <br />
+        &bull;{space}Royalties%/barrel
+        <br />
+        &bull;{space}(cash/debt)*income every year back
+        <br />
+        reverse amortization capital loss deprecation
+        <br />
         technology and margins get better, over time
+        <br />
+        price controls only works when yet before supply===labor-demand
         <br />
         <br />
         “The most profitable industry, in terms of margins, paid by tax payers.”
