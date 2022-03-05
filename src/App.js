@@ -175,6 +175,13 @@ export default class App extends React.Component {
         />*/}
         <br />
         <br />
+        wealth inequality by neighborhood-Land and branded-IP per hour is
+        grossly because of lower poverty, a measure of expenditure-to-income,
+        -averages, or excess profits, by wage or corporate account.
+        <h4>
+          reduce inequality by assets, and then increased efficiency, 0y/1x
+          1/hour-GDP/p.
+        </h4>
         technology and margins get better, over time
         <br />
         <br />
@@ -219,15 +226,6 @@ export default class App extends React.Component {
         majeure surrendered bid or outright is obviously intentional. 600k/day
         imports and exports, why? Are we washing money{space}
         <a href="https://2024nj.com">here</a>.
-        <br />
-        <br />
-        wealth inequality by neighborhood-Land and branded-IP per hour is
-        grossly because of lower poverty, a measure of expenditure-to-income,
-        -averages, or excess profits, by wage or corporate account.
-        <h4>
-          reduce inequality by assets, and then increased efficiency, 0y/1x
-          1/hour-GDP/p.
-        </h4>
       </div>
     );
   }
