@@ -130,7 +130,13 @@ export default class App extends React.Component {
           realized gains on my laurels, put to work
         </a>
         Congress doesn't have the power of the purse for aid and funding, that
-        is beyond Article 1.8 unequal bon-tax Article 4 explicit scope
+        is beyond Article 1.8 unequal bon-tax Article 4 explicit scope. 1y/0x
+        elastic, are subsidies beyond free rider immutables, if input costs are
+        complimentary substitutes as currency, fungible for state lands, and
+        untruncated when free rider immutable, for the services are sewage,
+        police and lawsuits, unless it is plundering that you aren’t fire
+        selling. volunteers surmounted by injured because of living costs
+        (homes, excluded from inflation)
         <br />
         <br />
         Tax for free rider mutable (and untruncated) is ALWAYS 1y/0x elastic, by
