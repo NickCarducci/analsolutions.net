@@ -151,6 +151,9 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />*/}
+        <br />
+        <br />
+        technology and margins get better, over time
       </div>
     );
   }
