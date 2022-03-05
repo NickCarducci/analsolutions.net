@@ -131,7 +131,8 @@ export default class App extends React.Component {
         </a>
         <h4>
           ween cops off bonds & pharmacy-licensure TRUNCATED PRODUCTION TAX
-          solves 90% of the problems
+          solves 90% of the problems - insurance fraud (loss-profit), good thing
+          it is surrendered bid, the false bid pools
         </h4>
         We want to put citizens in harms’ way on our terms. You can’t conscript
         citizens major general, the constitution wasn’t even of a country until
