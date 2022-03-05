@@ -192,7 +192,8 @@ export default class App extends React.Component {
         <br />
         technology and margins get better, over time
         <br />
-        price controls only works when yet before supply===labor-demand
+        price controls only works when yet before supply===labor-demand (not to
+        suppress trade of quality-skew/discerning)
         <br />
         <br />
         “The most profitable industry, in terms of margins, paid by tax payers.”
