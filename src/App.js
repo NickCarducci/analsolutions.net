@@ -156,6 +156,14 @@ export default class App extends React.Component {
         technology and margins get better, over time
         <br />
         <br />
+        “The most profitable industry, in terms of margins, paid by tax payers.”
+        <br />
+        <a href="https://fred.stlouisfed.org/graph/?g=MDBh">
+          National Industry
+        </a>
+        {space}Policy (<a href="https://qr.ae/pGdTGc">with japan</a>)
+        <br />
+        <br />
         <a href="https://qr.ae/pGdU99">Public insurance</a>
         {space}is an{space}
         <a href="https://qr.ae/pGdUiv">investment bank</a>, with price controls
