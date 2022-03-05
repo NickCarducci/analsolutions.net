@@ -129,6 +129,16 @@ export default class App extends React.Component {
         >
           realized gains on my laurels, put to work
         </a>
+        <h4>
+          ween cops off bonds & pharmacy-licensure TRUNCATED PRODUCTION TAX
+          solves 90% of the problems
+        </h4>
+        We want to put citizens in harms’ way on our terms. You can’t conscript
+        citizens major general, the constitution wasn’t even of a country until
+        1787, 12 years after writing, and war, between people like me, and
+        people like you.
+        <br />
+        <br />
         Congress doesn't have the power of the purse for aid and funding, that
         is beyond Article 1.8 unequal bon-tax Article 4 explicit scope. 1y/0x
         elastic, are subsidies beyond free rider immutables, if input costs are
