@@ -183,24 +183,13 @@ export default class App extends React.Component {
         tortious separation of powers, between investor, and entrepreneur.
         <br />
         <br />
-        Instead of leases, which seems to come into oil price, have royalties
-        per barrel, at current product minus input costs; us Savers can set the
-        overhead on drilling up to, now 3.65%/yr, - input costs, if we charge by
-        royalty of sales, so shipping outside of North Dakota, Wyoming, New
-        Mexico and the other one. Pennsylvania and Texas has bunch of private
-        lots, 23.6% 2017 share, but that was 10m/day now is 18m/day, 600k/day
-        imports and exports, why? Are we washing money here. 2024nj.com
-        <br />
-        <br />
-        20% of $5.4/day for every $10k of checking, instead of taking out oil,
-        just royalties structured like this. Is it per person? Maybe deflate it
-        by half after per capita of that 18m product, added, either case, it it
-        better than the treasury getting that money, because we know free rider
-        mutable and untruncated is 1y/0x elastic, for the services are sewage,
-        police and lawsuits, unless it is plundering that you aren’t fire
-        selling, elastic again as much as subsidies beyond free rider
-        immutables, if input costs are complimentary substitutes as currency,
-        fungible for state lands
+        instead of leases to treasury bond, go halfway between - per checking,
+        now 20% federal lands (North Dakota, Wyoming, New Mexico) of 18m/day at
+        $60product and 3.65%/yr return - input costs, make Savers in currency,
+        not money or savings, in charge of overhead as if the lands are
+        fungible. Us bookkeepers amortize balance sheets and lawyers reverse
+        amortize ascertainable tortious unknown hazards, foreseeable force
+        majeure surrendered bid or outright is obviously intentional
       </div>
     );
   }
