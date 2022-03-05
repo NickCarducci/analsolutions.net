@@ -129,11 +129,11 @@ export default class App extends React.Component {
         >
           realized gains on my laurels, put to work
         </a>
-        transaction fee based security depositary receipt
+        Transaction fee based security depositary receipt -
         <h4>
           ween cops off bonds & pharmacy-licensure TRUNCATED PRODUCTION TAX
           solves 90% of the problems - insurance fraud (loss-profit), good thing
-          it is surrendered bid, the false bid pools
+          it is surrendered bid, the false bid pools.
         </h4>
         We want to put citizens in harms’ way on our terms. You can’t conscript
         citizens major general, the constitution wasn’t even of a country until
@@ -148,7 +148,7 @@ export default class App extends React.Component {
         untruncated when free rider immutable, for the services are sewage,
         police and lawsuits, unless it is plundering that you aren’t fire
         selling. volunteers surmounted by injured because of living costs
-        (homes, excluded from inflation)
+        (homes, excluded from inflation).
         <br />
         <br />
         Tax for free rider mutable (and untruncated) is ALWAYS 1y/0x elastic, by
@@ -175,22 +175,22 @@ export default class App extends React.Component {
         />*/}
         <br />
         <br />
-        wealth inequality by neighborhood-Land and branded-IP per hour is
+        Wealth inequality by neighborhood-Land and branded-IP per hour is
         grossly because of lower poverty, a measure of expenditure-to-income,
         -averages, or excess profits, by wage or corporate account.
         <h4>
-          reduce inequality by assets, and then increased efficiency, 0y/1x
-          1/hour-GDP/p.
+          Reduce inequality by assets, and then increased efficiency, 0y/1x
+          1/hour-GDP/p,
         </h4>
         &bull;{space}SSAMedicare%/outlays,
         <br />
-        &bull;{space}Royalties%/barrel
+        &bull;{space}Royalties%/barrel,
         <br />
-        &bull;{space}(cash/debt)*income every year back
+        &bull;{space}(cash/debt)*income every year back, all
         <br />
-        reverse amortization capital loss deprecation
+        reverse amortization capital loss deprecation, for
         <br />
-        technology and margins get better, over time
+        technology and margins get better, over time, and
         <br />
         price controls only works when yet before supply===labor-demand (not to
         suppress trade of quality-skew/discerning)
@@ -208,9 +208,9 @@ export default class App extends React.Component {
         {space}is an{space}
         <a href="https://qr.ae/pGdUiv">investment bank</a>, with price controls
         that only work (do not suppress quality-skew/discerning trade) because
-        supply already doesn’t equal demandlabor-demand. Pennywise but a pound
-        short of banning insurance and invoices for they are technically
-        illegal, surrendered freedom, by bid and outright (even{space}
+        supply already doesn’t equal labor-demand. Pennywise but a pound short
+        of banning insurance and invoices for they are technically illegal,
+        surrendered freedom, by bid and outright (even{space}
         <a href="https://qr.ae/pGdUao">consumer fraud</a>).
         <br />
         <br />
