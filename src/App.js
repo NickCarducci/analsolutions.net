@@ -154,6 +154,13 @@ export default class App extends React.Component {
         <br />
         <br />
         technology and margins get better, over time
+        <br />
+        <br />
+        Public insurance is an investment bank, with price controls that only
+        work (do not suppress quality-skew/discerning trade) because supply
+        already doesn’t equal demandlabor-demand. Pennywise but a pound short of
+        banning insurance and invoices for they are technically illegal,
+        surrendered freedom, by bid and outright.
       </div>
     );
   }
